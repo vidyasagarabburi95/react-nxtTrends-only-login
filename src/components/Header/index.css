@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.web-logo {
+  height: 30px;
+  width: 120px;
+}
+nav {
+  background-color: white;
+  width: 100%;
+}
+ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav-items {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+li {
+  list-style-type: none;
+}
+.link-item {
+  color: #475569;
+  margin: 15px;
+  text-decoration: none;
+}
+.logout-button {
+  height: 30px;
+  width: 90px;
+  border-radius: 6px;
+  color: white;
+  background-color: #0b69ff;
+  text-align: center;
+  border: 0;
+}
